@@ -1,0 +1,9 @@
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\bin\Debug\QRCode for VFP.dll
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\bin\Debug\QRCode for VFP.pdb
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\bin\Debug\QRCoder.dll
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\bin\Debug\QRCoder.xml
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\obj\Debug\QRCode for VFP.csproj.AssemblyReference.cache
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\obj\Debug\QRCode for VFP.csproj.CoreCompileInputs.cache
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\obj\Debug\QRCode for VFP.csproj.CopyComplete
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\obj\Debug\QRCode for VFP.dll
+E:\Disk 500GB\Setup\Trung\Projects\QRCodeDLL\QRCode for VFP\obj\Debug\QRCode for VFP.pdb
